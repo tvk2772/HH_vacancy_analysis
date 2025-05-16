@@ -1,6 +1,9 @@
 ## Учебный проект по анализу вакансий HeadHunter
 ##### выполнил: *Кулакова Татьяна*
 
+### Описание проекта
+EDA исследование вакансий агенства HeadHunter.
+
 ### Файлы проекта
 + [Project_HH_vacancy_analysis.ipynb](Project_HH_vacancy_analysis.ipynb) *- ноутбук проекта*
 
